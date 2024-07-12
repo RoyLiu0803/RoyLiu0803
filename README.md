@@ -1,6 +1,9 @@
 <h1>Hi there 👋, I'm Roy!</h1>
 <p>💻 A Front-End Developer | Vue | Taiwan</p>
 
+### ✍🏻 Blog
+[https://royliu0803.github.io/](https://royliu0803.github.io/)
+
 ### 📧 CONTACT INFORMATION
 
 <table>
